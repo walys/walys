@@ -4,7 +4,7 @@
 - 🔗 Meu portfólio: https://walys.github.io/walyson-curriculum/ 
 - ✨ Atualmente trabalho como desenvolvedor Full Stack com PHP juntamente com frameworks como YII2, Codeigniter e Laravel
 - 🌱 Estou estudando atualmente Node.js juntamente com vue.js.
-- 💬 Contata-me por e-mail walysondev@outlook.com
+- 💬 Contate-me por e-mail walysondev@outlook.com
 - 💭 Estudando inglês atualemte
 
 <div align="center">
